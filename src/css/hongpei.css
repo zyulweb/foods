@@ -1,0 +1,303 @@
+.hongpei{
+    display: flex;
+    margin-top: 7%;
+    /* border-bottom: 1px solid rgb(51, 51, 51);; */
+}
+.hongpei_4{
+    width:990px;
+    background:white;
+    position: absolute;
+    z-index: 1;
+}
+.hongpei_5{
+    width:990px;
+    background:white;
+    /* height:100px; */
+    position: absolute;
+}
+.hongpei_6{
+    margin-top:3%;
+}
+.hongpei_3{
+    color:#ff6767;
+    font-size:20px;
+    border-bottom:3px solid #ff6767;
+}
+.hongpei_7{
+    font-size:16px;
+    line-height: 27px;
+    float: right;
+}
+.hongpei_9{
+    border-bottom: 1px solid #EEEEEE;
+    width: 80%;
+}
+.hongpei_8{
+    font-size:16px;
+    line-height: 27px;
+    margin-left:30%;
+}
+.hongpei_10{
+    border-bottom: 1px solid #EEEEEE;
+    width: 16%;
+}
+.yes{
+    color:#ff6767;
+}
+#aoao:hover{
+    color:#ff6767;
+}
+
+#binggun_01{
+    width:73%;
+    text-align: left;
+}
+#binggun{
+    width:990px;
+    height:200px;
+    /* background:yellow; */
+    display: flex;
+}
+.binggun_1{
+    width:200px;
+    height:200px;
+    overflow: hidden;
+}
+.binggun_1 img{
+    width:200px;
+    height:200px;
+    transition: 0.5s;
+}
+.binggun_1 img:hover{
+    transform: scale(1.1,1.1);
+}
+#binggun_01{
+    padding: 15px;
+}
+.binggun_2{
+    color: #333333;
+    font-size: 22px;
+    font-weight: normal;
+}
+.subcontent{
+    color: #666666;
+    font-size: 16px;
+    margin-top: 3%;
+}
+.substatus{
+    display: flex;
+    color:#ff6767;
+    margin-top: 5%;
+}
+.right{
+    color:#ff6767;
+    margin-left:58%;
+    font-size: 18px;
+    width:80px;
+    height:30px;
+    border:1px solid #ff6767;
+    text-align: center;
+    border-radius: 15px;
+    line-height: 28px;
+}
+.right:hover{
+    background:#ff6767;
+    color:white;
+}
+.binggun_2:hover{
+    color:#ff6767;
+    border-bottom: 3px solid #ff6767;
+}
+
+.right_1{
+    color:#ff6767;
+    margin-left:78%;
+    font-size: 18px;
+    width:80px;
+    height:30px;
+    border:1px solid #ff6767;
+    text-align: center;
+    border-radius: 15px;
+    line-height: 28px;
+}
+.right_1:hover{
+    background:#ff6767;
+    color:white;
+}
+.substatus_1{
+    display: flex;
+    color:#ff6767;
+    width:600px;
+    margin-top:6%;
+}
+.binggun_3{
+    margin-top: 0%;
+}
+.ys_01{
+    color:black !important;
+}
+.ys_01:hover{
+    color:#ff6767 !important;
+}
+
+
+.xian_1{
+    width: 85px !important;
+}
+.xian{
+    width: 63px !important;
+}
+
+/* 乳制品 */
+.ruzhi_1{
+    color:black !important;
+    font-weight: bold;
+}
+.ruzhi_2{
+    color:#ff6767 !important;
+}
+.ruzhi_3{
+    width: 63px !important;
+}
+
+
+/* 烘培面粉 */
+.mianfen_1{
+    color:black !important;
+    font-weight: bold;
+}
+.mianfen_2{
+    color:#ff6767 !important;
+}
+
+
+/* 烘培辅料 */
+.fuliao_1{
+    color:black !important;
+    font-weight: bold;
+}
+.fuliao_2{
+    color:#ff6767 !important;
+}
+
+
+/* 半成品 */
+.bancheng_1{
+    color:black !important;
+    font-weight: bold;
+}
+.bancheng_2{
+    color:#ff6767 !important;
+}
+
+
+/* 烘培工具 */
+.gongju_1{
+    color:black !important;
+    font-weight: bold;
+}
+.gongju_2{
+    color:#ff6767 !important;
+}
+
+
+
+/* 烘培模具 */
+.moju_1{
+    color:black !important;
+    font-weight: bold;
+}
+.moju_2{
+    color:#ff6767 !important;
+}
+
+
+/* 烘培包装 */
+.baozhuang_1{
+    color:black !important;
+    font-weight: bold;
+}
+.baozhuang_2{
+    color:#ff6767 !important;
+}
+
+/* 孕产妇 */
+.yunchanfu_1{
+    color:black !important;
+    font-weight: bold;
+}
+.yunchanfu_2{
+    color:#ff6767 !important;
+}
+
+/* 奶粉辅食 */
+.naifen_1{
+    color:black !important;
+    font-weight: bold;
+}
+.naifen_2{
+    color:#ff6767 !important;
+}
+
+/* 洗护喂养 */
+.xihu_1{
+    color:black !important;
+    font-weight: bold;
+}
+.xihu_2{
+    color:#ff6767 !important;
+}
+
+/* 婴儿尿裤 */
+.yinger_1{
+    color:black !important;
+    font-weight: bold;
+}
+.yinger_2{
+    color:#ff6767 !important;
+}
+
+/* 童装童鞋 */
+.tongzhuang_1{
+    color:black !important;
+    font-weight: bold;
+}
+.tongzhuang_2{
+    color:#ff6767 !important;
+}
+
+/* 早教玩具 */
+.zaojiao_1{
+    color:black !important;
+    font-weight: bold;
+}
+.zaojiao_2{
+    color:#ff6767 !important;
+}
+
+
+
+
+/* 果蔬生鲜 */
+.guoshu_1{
+    width:85px !important;
+}
+
+/* 新鲜水果 */
+.shuiguo_1 a{
+    color:black !important;
+    font-weight: bold;
+}
+.shuiguo_1 a:hover{
+    color: #ff6767 !important;
+}
+.shuiguo_2{
+    color:#ff6767 !important;
+}
+.xian_01{
+    width:145px !important;
+}
+.footer{margin-top: 1160px;}
+
+
+
